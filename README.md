@@ -1,5 +1,5 @@
-# Fizyka-projekt-1
-Wariant-2
-Potrzebne moduły:
+Python project
+
+neded packages:
 -pygame
 -numpy
