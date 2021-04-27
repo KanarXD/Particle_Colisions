@@ -1,5 +1,5 @@
 Python project
 
-neded packages:
+needed packages:
 -pygame
 -numpy
